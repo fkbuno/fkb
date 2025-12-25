@@ -68,7 +68,3 @@ Le choix de JavaScript pour porter la FKB et Code Zéro n'est pas anodin. C'est 
 Explorez nos captures d'écran via notre interface web dédiée, plongez dans les archives de Code Zéro avec Pica, ou améliorez votre flux de travail avec Tab XP. La Fabrice Knowledge Base est votre porte d'entrée vers une compréhension plus profonde du monde numérique et humain.
 
 **FKB : Tout savoir, pour tout créer.**
-
----
-
-Souhaitez-vous que j'ajoute des sections spécifiques sur les interactions entre Pica et les personnages, ou que je développe davantage l'aspect technique de l'interface JavaScript ?
