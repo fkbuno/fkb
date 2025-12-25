@@ -1,3 +1,3 @@
 # FKB - Fabrice Knowledge Base
 
-A personal project 
+A personal project.
